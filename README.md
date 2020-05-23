@@ -1,3 +1,5 @@
 # Tetris
+
 webpack+ts
-[demo](https://jikyouguo.github.io/Tetris/)
+
+[view demo](https://jikyouguo.github.io/Tetris/)
